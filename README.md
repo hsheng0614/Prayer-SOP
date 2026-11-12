@@ -2,7 +2,7 @@
 
 An interactive 3D web experience for learning how Malaysian Chinese worship 10 popular deities, step by step. You wash your hands, enter through the Dragon Door, lay out offerings, light incense, say your prayer, throw divination blocks, draw a fortune stick, burn gold paper, and leave through the Tiger Door. Every deity has its own temple, offerings, taboos and rituals, and when you make a mistake, the app explains why.
 
-**▶ Play online:** `https://<your-username>.github.io/<repo-name>/`
+**▶ Play online:** https://hsheng0614.github.io/Prayer-SOP/
 
 ---
 
